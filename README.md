@@ -1,4 +1,3 @@
-<h1 align="center">Kolesov Arseny (masajinobe)</h1>
 <h3 align="center">Fullstack developer from Russia, Tyumen</h3>
 
 I am engaged in software/services development and music equipment manufacturing at **[Priscilla FX](https://vk.com/priscilla_ef)** and **[Temnomor](https://temnomor.ru/)**.</br>
